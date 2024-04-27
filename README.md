@@ -1,2 +1,2 @@
-[![](https://niqu.club/content/rud4sek.png)
+[![](https://niqu.club/content/rudasek.png)
 ](https://rudasek.vercel.app)
